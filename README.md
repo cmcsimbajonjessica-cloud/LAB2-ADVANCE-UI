@@ -77,3 +77,11 @@ File Structure
 Note
 
 Some commits were initially recorded under the repository owner's account because Git author configuration was not yet updated on each device. Later, members corrected authorship using Git configuration commands.
+
+# LAB2-ADVANCE-UI
+
+This is the Haircut Booking System project.
+
+![UI Screenshot](images/ui.png)
+
+Project description continues...
